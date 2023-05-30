@@ -1,0 +1,7 @@
+Python Course with Training Project
+
+The comprehensive six-hour lecture was meticulously structured and provided me with new knowledge. It covered a wide range of topics, including object-oriented programming in Python and machine learning in Python. Towards the end, we embarked on a training project where we utilized Django and Python to create our own website. The process involved installing Django using pip and implementing most of the basics taught throughout the session. This resulted in a satisfying culmination of the course, as we successfully built a stunning website for selling fruits in our PyShop that incorporated the skills and concepts we had learned.
+
+
+
+
