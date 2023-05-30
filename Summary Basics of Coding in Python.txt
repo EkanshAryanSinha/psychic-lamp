@@ -1,0 +1,3 @@
+Basics of Coding in Python:
+
+I found this one-hour lecture to be immensely beneficial in refreshing my understanding of Python fundamentals, encompassing concepts ranging from type conversion to various types of loops. Additionally, the lecture introduced me to useful tricks that I was previously unaware of. Towards the conclusion, the lecture provided a basic introduction to tuples, highlighting their immutable nature, which has piqued my interest to explore this topic further in the future. Although the core concepts had already been covered in a longer six-hour lecture, this concise session greatly aided me in revisiting and reinforcing these essential principles.
