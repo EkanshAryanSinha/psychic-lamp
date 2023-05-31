@@ -1,0 +1,12 @@
+Framework to secure medical record summarization
+
+This abstract introduces a proposal for a decentralized and secure framework for storing and accessing medical records using blockchain technology, IPFS, and AI techniques. The framework aims to address the challenges of managing and accessing patient medical history efficiently, especially in cases of emergencies or when patients visit multiple doctors. The proposed system allows patients to upload their prescriptions and reports, which are stored securely on the Ethereum blockchain. AI techniques, such as optical character recognition (OCR), are used to process the documents and create a concise summary of the patient's medical history. This summary can be accessed by authorized stakeholders, including doctors, patients, and attendants, facilitating better healthcare decision-making.
+
+The network model consists of a web front-end, IPFS storage, a blockchain storage back-end, and a machine learning processing back-end. The front-end allows users to securely register and upload images/documents, which are then linked to IPFS and stored on the blockchain. Different types of tags are assigned to each image based on its category. The files are processed using various techniques such as rescaling, removing shadows, noise reduction, and binarization. AI-based OCR engines are used to extract data from different types of documents. Storing IPFS hashes instead of the entire image on the blockchain reduces storage costs.
+
+
+
+
+
+
+
