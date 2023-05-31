@@ -1,0 +1,7 @@
+Intro to EMR data and AI application
+
+The rise of big data has generated a lot of interest worldwide in using large amounts of medical data, particularly electronic medical records (EMR). Many hospitals are embracing artificial intelligence (AI) technology to enhance their operations and patient care using EMR data. EMR data contains extensive information about a patient's health history, diagnoses, medications, tests, and treatment plans. It can be utilized to create AI algorithms that predict diseases or offer personalized treatments based on individual patient characteristics. However, for AI research with EMR data to be effective, it is crucial to standardize and refine the data. Additionally, safeguarding patient privacy is of utmost importance as EMR data includes sensitive personal information. Governments, including the Korean government, are supporting the use of EMR data, and researchers are encouraged to actively utilize them.
+
+
+
+
